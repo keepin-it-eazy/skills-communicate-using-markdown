@@ -8,7 +8,7 @@
 
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -23,3 +23,4 @@
 
 
 I displayed the different type of headers from the largest to the smallest.😃
+I added an image too.
